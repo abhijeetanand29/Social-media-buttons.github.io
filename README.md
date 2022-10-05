@@ -10,7 +10,7 @@ It is based on html and css using which social media buttons are to be created.
 Contributions are very welcome.
 Check out [CONTRIBUTING.md](https://github.com/AyushSarode/Social-media-buttons.github.io/blob/main/CONTRIBUTING.md) for ways to get started.
 
-Please adhere to this project's [code of conduct]().
+Please adhere to this project's [code of conduct](CODE OF CONDUCT.md).
 
 ## 📄 License
 
