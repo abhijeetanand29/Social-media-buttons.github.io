@@ -30,7 +30,7 @@ If you're new to git and/or GitHub, we suggest you go through [the GitHub Guides
 3. Create a new branch 
 4. Start hacking on the new branch
 5. Commit and push to the new branch
-6. Make a pull request towards the original repository (AyushSarode/Social-media-buttons)
+6. Make a pull request towards the original repository (AyushSarode/Social-media-buttons.github.io)
 
 ## Pull Request Guidelines
 
